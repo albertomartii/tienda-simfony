@@ -39,7 +39,7 @@ The website features a modern pet shop design where users can browse products, m
 
 ### Products & Special Offers
 
-![Pet Shop Products](docs/screenshots/products.png)
+![Pet Shop Products](docs/screenshots/product.png)
 
 ---
 
